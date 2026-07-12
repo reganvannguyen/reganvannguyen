@@ -16,9 +16,9 @@ My main tools include React, TypeScript, Python, FastAPI, PostgreSQL, Docker, C+
 
 ## Featured Projects
 
-- [Canvas AI Assistant](LINK ) — Full-stack AI-assisted Canvas LMS management platform
-- [Sports Jersey Classification Pipeline](LINK) — Deep-learning image classification pipeline
-- [Pico Tetris](LINK) — Tetris built in C++ for a Raspberry Pi Pico 2 W
+- [Canvas AI Assistant](https://github.com/UBCO-COSC499-S2026/capstone-team-3) — Full-stack AI-assisted Canvas LMS management platform
+- [Sports Jersey Classification Pipeline](https://github.com/eeasuper/419-koshkina) — Deep-learning image classification pipeline
+- [Pico Tetris](https://github.com/reganvannguyen/pico2w-tetris) — Tetris built in C++ for a Raspberry Pi Pico 2 W
 - [Pico Tennis Swing Analyzer](LINK) — Embedded motion-analysis project currently in development
 
 ## Tools I Use
@@ -31,6 +31,6 @@ My main tools include React, TypeScript, Python, FastAPI, PostgreSQL, Docker, C+
 
 ## Find Me
 
-- [Portfolio](LINK)
-- [LinkedIn](LINK)
+- [Portfolio](https://reganvannguyen.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/regan-nguyen-0578bb29a/)
 - [Email](mailto:regankelowna@gmail.com)
