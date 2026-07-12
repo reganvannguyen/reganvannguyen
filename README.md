@@ -1,36 +1,22 @@
-# Hey, I'm Regan 👋
+# Hey there! 👋
 
-I'm a software developer and Computer Science graduate from the University of British Columbia.
+I'm Regan, a software developer and Computer Science graduate from the University of British Columbia.
 
-I build full-stack web applications, AI-assisted software, and embedded systems projects.
+I enjoy building practical software projects, especially full-stack web applications, AI-assisted tools, and embedded systems.
 
-I previously completed a Web Development Co-op at the BC Energy Regulator, where I contributed to professional software projects in a collaborative development environment.
+I previously completed a Web Development Co-op at the BC Energy Regulator, where I contributed to professional software projects and worked in a collaborative development environment.
 
-My main tools include React, TypeScript, Python, FastAPI, PostgreSQL, Docker, C++, and Git.
+My main tech stack includes React, TypeScript, Python, FastAPI, PostgreSQL, Docker, C++, and Git.
 
-## What I'm Working On
+Right now, I'm working on a tennis swing analyzer using a Raspberry Pi Pico 2 W and an accelerometer. I'm also continuing to improve several of my full-stack and embedded projects.
 
-- A Canvas AI assistant that allows instructors to manage courses through natural-language commands
-- A tennis swing analyzer using a Raspberry Pi Pico 2 W and accelerometer
-- A portfolio documenting my software and embedded projects
+Some of the projects I'm most proud of are my [Canvas AI Assistant](https://github.com/UBCO-COSC499-S2026/capstone-team-3), [Sports Jersey Classification Pipeline](https://github.com/eeasuper/419-koshkina), and [Pico Tetris](https://github.com/reganvannguyen/pico2w-tetris).
 
-## Featured Projects
+You can find more about my work on my [portfolio](https://reganvannguyen.github.io/), connect with me on [LinkedIn](https://www.linkedin.com/in/regan-nguyen-0578bb29a/), or reach me by [email](mailto:regankelowna@gmail.com).
 
-- [Canvas AI Assistant](https://github.com/UBCO-COSC499-S2026/capstone-team-3) — Full-stack AI-assisted Canvas LMS management platform
-- [Sports Jersey Classification Pipeline](https://github.com/eeasuper/419-koshkina) — Deep-learning image classification pipeline
-- [Pico Tetris](https://github.com/reganvannguyen/pico2w-tetris) — Tetris built in C++ for a Raspberry Pi Pico 2 W
-- [Pico Tennis Swing Analyzer](LINK) — Embedded motion-analysis project currently in development
+## A Few Things About Me
 
-## Tools I Use
-
-**Languages:** Python, TypeScript, JavaScript, C++, Java, SQL  
-**Frontend:** React, Vite, HTML, CSS  
-**Backend:** FastAPI, Flask, REST APIs  
-**Databases:** PostgreSQL, MySQL, SQL Server  
-**Tools:** Git, GitHub Actions, Docker, Linux
-
-## Find Me
-
-- [Portfolio](https://reganvannguyen.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/regan-nguyen-0578bb29a/)
-- [Email](mailto:regankelowna@gmail.com)
+- I enjoy building projects that combine software and hardware
+- I built a playable version of Tetris for a Raspberry Pi Pico 2 W
+- I'm interested in AI-assisted software and running models locally
+- I like learning by building complete projects from the ground up
