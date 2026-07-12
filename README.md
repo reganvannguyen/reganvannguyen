@@ -1,4 +1,4 @@
-# Hey there! 👋
+### Hey there! 👋
 
 I'm Regan, a software developer and Computer Science graduate from the University of British Columbia.
 
