@@ -16,7 +16,7 @@ Some collaborative and academic repositories are private, but I include project 
 
 connect with me on [LinkedIn](https://www.linkedin.com/in/regan-nguyen-0578bb29a/), or reach me by [email](mailto:regankelowna@gmail.com).
 
-## A Few Things About Me
+ **A Few Things About Me:**
 
 - I enjoy building projects that combine software and hardware
 - I built a playable version of Tetris for a Raspberry Pi Pico 2 W
