@@ -10,9 +10,11 @@ My main tech stack includes React, TypeScript, Python, FastAPI, PostgreSQL, Dock
 
 Right now, I'm working on a tennis swing analyzer using a Raspberry Pi Pico 2 W and an accelerometer. I'm also continuing to improve several of my full-stack and embedded projects.
 
-Some of the projects I'm most proud of are my [Canvas AI Assistant](https://github.com/UBCO-COSC499-S2026/capstone-team-3), [Sports Jersey Classification Pipeline](https://github.com/eeasuper/419-koshkina), and [Pico Tetris](https://github.com/reganvannguyen/pico2w-tetris).
+Some of my favorite projects include a Canvas AI Assistant developed as part of a university capstone, a deep-learning sports jersey classification pipeline, and [Pico Tetris](https://github.com/reganvannguyen/pico2w-tetris).
 
-You can find more about my work on my [portfolio](https://reganvannguyen.github.io/), connect with me on [LinkedIn](https://www.linkedin.com/in/regan-nguyen-0578bb29a/), or reach me by [email](mailto:regankelowna@gmail.com).
+Some collaborative and academic repositories are private, but I include project details and demonstrations on my [portfolio](https://reganvannguyen.github.io/).
+
+connect with me on [LinkedIn](https://www.linkedin.com/in/regan-nguyen-0578bb29a/), or reach me by [email](mailto:regankelowna@gmail.com).
 
 ## A Few Things About Me
 
